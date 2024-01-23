@@ -1,0 +1,5 @@
+{"What is the use case for this website?":"This website combines all unread messages from various applications including social media and professional apps. The target market is the general public, and specifically, users with multiple social media and professional apps.",
+"Is sending messages supported?":"Yes, a user can send messages. To do so, open up a chat, and write your message in the input box at the bottom of the page. It should show up in the chat and will be added to the server.",
+"My chat disappears after I clicked on it. Where did it go?":"The website is designed such that read messages go in the read messages section. Click on the read messages button to view these messages",
+"How can I reach out if I have any questions?": "There is a Contact Us form which can be accessed by clicking on the Contact Us button on the Unread Messages page. Once filled, we will receive your information and will reach out within 48 hours.",
+"How can I filter messages by platform?": "On the unread messages page, there is a Sort By button. Clicking on the button displays a filter"}
